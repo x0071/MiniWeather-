@@ -1,4 +1,4 @@
 # MiniWeather-
-MiniWeather 天气单文件 W11
-<img width="301" height="80" alt="image" src="https://github.com/user-attachments/assets/d27f0fa4-d9f4-49c3-9c0b-e30eb993790f" />
-纯AI手搓，不懂任何代码。
+MiniWeather 天气单文件 W11 不懂代码AI手搓
+<img width="389" height="239" alt="image" src="https://github.com/user-attachments/assets/1b91f907-b36a-4723-abaf-d97ad36366bc" />
+
